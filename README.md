@@ -123,7 +123,7 @@ The proposed concept is not intended to replace the primary power system, but ra
 
 The complete technical report is available here:
 
-[Technical Report](documentation/Informe Termoeléctrico.pdf)
+[Technical Report](documentation/InformeTermoeléctrico.pdf)
 
 ---
 
